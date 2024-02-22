@@ -1,4 +1,4 @@
-Dragon Adventure Game
+Dragon Repeller Game
 Welcome to the Dragon Adventure Game! This is a simple web-based game created using HTML, CSS, and JavaScript. Embark on an epic journey where you control a fearless adventurer facing various challenges and encounters with dragons.
 
 Contributing
