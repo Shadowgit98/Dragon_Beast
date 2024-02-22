@@ -1,5 +1,5 @@
-Dragon Repeller Game
-Welcome to the Dragon Adventure Game! This is a simple web-based game created using HTML, CSS, and JavaScript. Embark on an epic journey where you control a fearless adventurer facing various challenges and encounters with dragons.
+
+Welcome to the Dragon Repeller Game! This is a simple web-based game created using HTML, CSS, and JavaScript. Embark on an epic journey where you control a fearless adventurer facing various challenges and encounters with dragons.
 
 Contributing
 If you'd like to contribute to the development of the Dragon Repeller Game, feel free to submit issues or pull requests. Your feedback and contributions are highly appreciated.
